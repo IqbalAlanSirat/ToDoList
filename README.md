@@ -1,6 +1,6 @@
-import/create database
-edit .env
-run terminal
+`import/create database
+`edit .env
+`run terminal
 - composer install
 - npm install
 - npm run dev
@@ -8,7 +8,7 @@ run terminal
 - php artisan migrate (if create database)
 - php artisan serve
 
-Username test1@gmail.com
-Password 12345678
+`Username test1@gmail.com
+`Password 12345678
 
 
