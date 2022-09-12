@@ -1,5 +1,5 @@
 import/create database<br>
-edit .env<br>
+create and edit .env<br>
 run terminal :<br>
 - composer install
 - npm install
